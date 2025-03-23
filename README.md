@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ronak Bharadiya and I'm a Full Stack With Blockchain Developer, from India</h2>
+<h2 align="left">Hi 👋! I'm Ronak Bharadiya, a Full-Stack Developer specializing in Odoo with expertise in backend and frontend development. Based in India</h2>
 
 ###
 
